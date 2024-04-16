@@ -1,8 +1,18 @@
-<html lang="fa" dir="rtl"/>
-<img src="https://github.com/Mahmoud-Sj/Mahmoud-Sj/assets/165766357/5d87d4bb-c06c-4c1b-9575-a36e30dcac59"/>
+
+![header](https://github.com/Mahmoud-Sj/Mahmoud-Sj/assets/165766357/bbdaf4e1-8dd9-40f0-b465-bda133daf057)
+
   
-# در حال آموختن زبانهای برنامه نویسی تحت وب
-- [x] HTML
-- [x] CSS
-- [x] SCSS
-- [ ] JavaScript
+  
+  ---
+
+ دانش پژوه زبان های برنامه نویسی طراحی وب :
+
+- - [x] **HTML**
+- - [x] **CSS**
+- - [ ] Bootsrap        
+- - [ ] JavaScript
+
+ علاقمند به یادگیری زبانهای برنامه نویسی :
+ - `PHP`
+ - `Python`
+ - `React`
